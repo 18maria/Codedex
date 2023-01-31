@@ -1,0 +1,6 @@
+numero1=int(input("Dame un numero"))
+numero2=int(input("Dame un numero"))
+numero3=int(input("Dame un numero"))
+print("Este es el resultado de tu multiplicación")
+print((numero1+numero2)*numero3)
+print(numero1*numero3+numero2+numero3)
